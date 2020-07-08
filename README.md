@@ -1,12 +1,11 @@
 # Be the Hero
 
-Aplicação desenvolvida durante a Omnistack 11 da [Rocketseat](https://rocketseat.com.br/), o objetivo do Be the Hero é criar um sistema tanto Web como Mobile para ONGs que necessitam de contribuições para que seus casos. Que possibilite pessoas como você e eu possamos ajudar entrando selecionando um dos casos e entrando em contato.
+Be the Hero is a project that aims to help a charity financially, helping it to stay. So that people like you and me can contribute.
+
+What is the importance of helping an NGO?
+
+Non-governmental organizations (NGOs) are private, non-profit civil society entities whose purpose is to defend and promote a cause. This cause can be of virtually any type: **human rights, animal rights, indigenous rights, gender, the fight against racism, the environment, urban issues, immigrants**, among many others.
 
 
-## 💻 Contato de Desenvolvimento
 
-### Hartur Alcântara
 
-- [GitHub](https://github.com/harturalcantara)
-- [Linkedin](https://www.linkedin.com/in/harturalcantara/)
-- [harturalcantara@gmail.com](https://gmail.com)
